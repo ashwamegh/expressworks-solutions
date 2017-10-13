@@ -17,6 +17,7 @@
   "author": "Shashank Shekhar",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "eslint": "^4.8.0",
     "express": "^4.16.2",
     "jade": "^1.11.0"
